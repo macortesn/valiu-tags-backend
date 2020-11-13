@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+    "source.fixAll.tslint": true
+  },
+  "editor.formatOnSave": true,
+  "prettier.semi": true,
+  "editor.tabSize": 4,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/.awcache": true
+  }
+}
